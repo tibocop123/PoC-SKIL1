@@ -1,0 +1,7 @@
+0 Belgisch
+1 Nederlands
+2 Frans
+3 Duits
+4 Marokaans
+5 Japans
+6 Braziliaans
